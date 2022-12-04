@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace if_else_elseif
+namespace switch_case
 {
     class Program
     {
